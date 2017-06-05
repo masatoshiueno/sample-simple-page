@@ -1,6 +1,6 @@
 # sample-simple-page
 link to live site https://masatoshiueno.github.io/leaflet-map-simple/
-<iframe src="https://masatoshiueno.github.io/leaflet-map-simple/" width="90%" height="350"></iframe>
+<iframe src="https://masatoshiueno.github.io/leaflet-map-simple/" width="190%" height="150"></iframe>
 
  AND
 
