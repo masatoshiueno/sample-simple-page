@@ -1,9 +1,8 @@
 # sample-simple-page
-link to live site https://masatoshiueno.github.io/leaflet-map-simple/
-<iframe src="https://masatoshiueno.github.io/leaflet-map-simple/" width="190%" height="150"></iframe>
+## link to live chart (replace with your own link)
+https://masatoshiueno.github.io/highcharts-scatter-csv/
 
- AND
+ <iframe src="https://masatoshiueno.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
 
- <iframe src="https://masatoshi.ueno.github.io/highcharts-scatter-csv" width="90%" height="350"></iframe>
 
 
